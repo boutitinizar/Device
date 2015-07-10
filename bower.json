@@ -1,0 +1,17 @@
+{
+  "name": "device",
+  "version": "0.0.0",
+  "authors": [
+    "boutitinizar <boutitinizar@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "magnific-popup": "~1.0.0"
+  }
+}
